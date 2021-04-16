@@ -3,13 +3,18 @@
 Table of Content 
 
 1. Introduction
-2. Steps
-3. Results
-4. Acknowledgements 
+2. Libraries
+3. Steps
+4. Results
+5. Acknowledgements 
 
 INTRODUCTION 
 
 With my final project in the Nanodegree Udacity, the of this project it was write a model using a CNN. This CNN must recevied an image and return with there is a dog and what is the breed of this dog, and in case an image of human is provided, the model must return that a human face that was recognized and provides to us what breed of dog is that human most like.  
+
+LIBRARIES
+
+Avalible in requeriments.txt
 
 STEPS
 
@@ -35,14 +40,14 @@ In this steps I used the accuracy to measure the improvements in the model.
 
 RESULTS
 
-In the final CNN, using pre-trained Inception model in transfer learning to increse the accuracy, I got to achieve the mark of 80%
+In the final CNN, using pre-trained Inception model in transfer learning to increse the accuracy, I got to achieve the final mark of 80% of accuracy
 
 ![image](https://user-images.githubusercontent.com/71613183/115006930-cf3f4f00-9e7f-11eb-843f-54f9a4f09efe.png)
 
 
 ![image](https://user-images.githubusercontent.com/71613183/115006975-de260180-9e7f-11eb-9481-ed0caf5f144a.png)
 
-This return the imagens with these description above 
+ 
 
 ACKNOWLEDGEMENTS
 
