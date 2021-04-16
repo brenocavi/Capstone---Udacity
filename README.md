@@ -14,12 +14,19 @@ With my final project in the Nanodegree Udacity, the of this project it was writ
 STEPS
 
 Step 0: Import Datasets
+
 Step 1: Detect Humans
+
 Step 2: Detect Dogs
+
 Step 3: Create a CNN to Classify Dog Breeds (from Scratch)
+
 Step 4: Use a CNN to Classify Dog Breeds (using Transfer Learning)
+
 Step 5: Create a CNN to Classify Dog Breeds (using Transfer Learning)
+
 Step 6: Write your Algorithm
+
 Step 7: Test Your Algorithm
 
 In a fast sequential line. To perform the analysis from the second stage, OpenCv was used, which responded well to human faces but to dogs. In step three, ResNet50 was used, where to build an architecture to work with dog data. And in the final step, using transfer learning I managed to reach an acceptable level of accuracy for the project. 
