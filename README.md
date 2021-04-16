@@ -31,7 +31,9 @@ Step 7: Test Your Algorithm
 
 In a fast sequential line. To perform the analysis from the second stage, OpenCv was used, which responded well to human faces but to dogs. In step three, ResNet50 was used, where to build an architecture to work with dog data. And in the final step, using transfer learning I managed to reach an acceptable level of accuracy for the project. 
 
-Results 
+In this steps I used the accuracy to measure the improvements in the model.
+
+RESULTS
 
 In the final CNN, using pre-trained Inception model in transfer learning to increse the accuracy, I got to achieve the mark of 80%
 
